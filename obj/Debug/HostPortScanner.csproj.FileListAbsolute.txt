@@ -1,0 +1,20 @@
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\bin\Debug\HostPortScanner.exe.config
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\bin\Debug\HostPortScanner.exe
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\bin\Debug\HostPortScanner.pdb
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.csprojAssemblyReference.cache
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.fMainWindow.resources
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.Properties.Resources.resources
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.csproj.GenerateResource.cache
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.exe
+C:\Users\Szumny Igor\source\repos\HostPortScanner\HostPortScanner\obj\Debug\HostPortScanner.pdb
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\bin\Debug\HostPortScanner.exe.config
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\bin\Debug\HostPortScanner.exe
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\bin\Debug\HostPortScanner.pdb
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.csproj.AssemblyReference.cache
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.fMainWindow.resources
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.Properties.Resources.resources
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.csproj.GenerateResource.cache
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.csproj.CoreCompileInputs.cache
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.exe
+D:\IGOR\Nauka\3. Szkoła średnia - ZSŁ\techniczne przedmioty\aplikacje serwerowe\Koszałka\HostPortScanner2\HostPortScanner\obj\Debug\HostPortScanner.pdb
